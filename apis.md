@@ -5,7 +5,7 @@ description: This is a repository of at&t dev program APIs, self-contained as a 
   operations.
 image: http://template.streamdata.gallery/assets/at-t-dev-program.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://at-t-dev-program.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
